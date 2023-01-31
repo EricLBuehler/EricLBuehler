@@ -1,16 +1,18 @@
-### Hi there 👋
+# Eric Buehler
 
-<!--
-**EricLBuehler/EricLBuehler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming
 
-Here are some ideas to get you started:
+### Programming Languages
+- [Kestrel Programming Language](https://github.com/EricLBuehler/Kestrel-Programming-Language)
+  - A compiled programming language built using Rust and that compiles to LLVM.
+- [Falcon Programming Language](https://github.com/EricLBuehler/Falcon-Programming-Language)
+  - An interpreted programming language built using C++ that is very similar to Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Machine Learning
+- [PerceiverIO Classifier](https://github.com/EricLBuehler/PerceiverIO-Classifier)
+  - An MNIST classifier built using PerceiverIO.
+- [The Neuron](https://github.com/EricLBuehler/The-Neuron)
+  - A fully autonomous robot, with a detailed build guide.
+
+## Mathematics
+None yet.
