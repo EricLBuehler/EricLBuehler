@@ -15,4 +15,5 @@
   - A fully autonomous robot, with a detailed build guide.
 
 ## Mathematics
-None yet.
+- [Automatic Differentiation](https://github.com/EricLBuehler/Automatic-Differentiation-Custom)
+  - My personal implementation of automatic differentiation, a method that powers ML and is used to calculate derivatives.
