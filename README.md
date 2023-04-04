@@ -17,3 +17,5 @@
 ## Mathematics
 - [Automatic Differentiation](https://github.com/EricLBuehler/Automatic-Differentiation-Custom)
   - My personal implementation of automatic differentiation, a method that powers ML and is used to calculate derivatives.
+- [Proofling](https://github.com/EricLBuehler/Proofling)
+  - An automatic proof checker. Just plug in truth statements, and it will check for inconsistencies
