@@ -13,6 +13,8 @@
   - An MNIST classifier built using PerceiverIO.
 - [The Neuron](https://github.com/EricLBuehler/The-Neuron)
   - A fully autonomous robot, with a detailed build guide.
+- [CodingGPT](https://github.com/EricLBuehler/CodingGPT)
+  - A GPT-like autoregressive, decoder-only transformer trained on data scraped from Reddit programming and science subreddits.
 
 ## Mathematics
 - [Automatic Differentiation](https://github.com/EricLBuehler/Automatic-Differentiation-Custom)
