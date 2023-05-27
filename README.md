@@ -7,6 +7,9 @@
   - A compiled programming language built using Rust and that compiles to LLVM.
 - [Falcon Programming Language](https://github.com/EricLBuehler/Falcon-Programming-Language)
   - An interpreted programming language built using C++ that is very similar to Python.
+- [Merlin](https://github.com/EricLBuehler/merlin)
+  - An dynamically and strongly typed programming language built in Rust that does not have a GIL and unleashes the power of multithreading.
+
 
 ### Machine Learning
 - [PerceiverIO Classifier](https://github.com/EricLBuehler/PerceiverIO-Classifier)
