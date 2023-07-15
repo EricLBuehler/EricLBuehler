@@ -2,6 +2,9 @@
 
 ## Programming
 
+- [Trc](https://github.com/EricLBuehler/trc)
+  - A faster Arc: a Rust thread reference counted smart pointer.
+  
 ### Programming Languages
 - [Kestrel Programming Language](https://github.com/EricLBuehler/Kestrel-Programming-Language)
   - A compiled programming language built using Rust and that compiles to LLVM.
