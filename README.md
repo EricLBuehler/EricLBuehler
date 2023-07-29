@@ -6,8 +6,8 @@
   - A faster Arc: a Rust thread reference counted smart pointer.
   
 ### Programming Languages
-- [Kestrel Programming Language](https://github.com/EricLBuehler/Kestrel-Programming-Language)
-  - A compiled programming language built using Rust and that compiles to LLVM.
+- [Kestrel](https://github.com/EricLBuehler/kestrel)
+  - Simple and safe - a statically and strongly typed programming language that compiles to LLVM.
 - [Falcon Programming Language](https://github.com/EricLBuehler/Falcon-Programming-Language)
   - An interpreted programming language built using C++ that is very similar to Python.
 - [Merlin](https://github.com/EricLBuehler/merlin)
