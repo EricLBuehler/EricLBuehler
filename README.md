@@ -15,6 +15,8 @@
 
 
 ### Machine Learning
+- [candle-lora](https://github.com/EricLBuehler/candle-lora)
+  - LoRA implemented for the new [Candle](https://github.com/huggingface/candle) framework.
 - [PerceiverIO Classifier](https://github.com/EricLBuehler/PerceiverIO-Classifier)
   - An MNIST classifier built using PerceiverIO.
 - [The Neuron](https://github.com/EricLBuehler/The-Neuron)
