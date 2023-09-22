@@ -1,6 +1,6 @@
 # Eric Buehler
 
-## Libraries
+### Libraries
 - [Trc](https://github.com/EricLBuehler/trc)
   - A faster Arc: a Rust thread reference counted smart pointer.
   
