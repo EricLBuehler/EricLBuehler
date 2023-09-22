@@ -1,7 +1,6 @@
 # Eric Buehler
 
-## Programming
-
+## Libraries
 - [Trc](https://github.com/EricLBuehler/trc)
   - A faster Arc: a Rust thread reference counted smart pointer.
   
@@ -13,10 +12,11 @@
 - [Merlin](https://github.com/EricLBuehler/merlin)
   - A dynamically and strongly typed programming language built in Rust that does not have a GIL and unleashes the power of multithreading.
 
-
-### Machine Learning
+### Machine Learning Libraries
 - [candle-lora](https://github.com/EricLBuehler/candle-lora)
   - LoRA implemented for the new [Candle](https://github.com/huggingface/candle) framework.
+
+### Machine Learning Applications
 - [PerceiverIO Classifier](https://github.com/EricLBuehler/PerceiverIO-Classifier)
   - An MNIST classifier built using PerceiverIO.
 - [The Neuron](https://github.com/EricLBuehler/The-Neuron)
