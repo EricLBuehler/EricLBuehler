@@ -13,6 +13,8 @@
   - A dynamically and strongly typed programming language built in Rust that does not have a GIL and unleashes the power of multithreading.
 
 ### Machine Learning Libraries
+- [candle-vllm](https://github.com/EricLBuehler/candle-vllm)
+  - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
 - [candle-lora](https://github.com/EricLBuehler/candle-lora)
   - LoRA implemented for the new [Candle](https://github.com/huggingface/candle) framework.
 
