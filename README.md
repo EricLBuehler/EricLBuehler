@@ -14,9 +14,9 @@
 
 ### Machine Learning Libraries
 - [candle-vllm](https://github.com/EricLBuehler/candle-vllm)
-  - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
+  - Efficent platform for inference and serving local [Candle](https://github.com/huggingface/candle) LLMs including an OpenAI compatible API server.
 - [candle-lora](https://github.com/EricLBuehler/candle-lora)
-  - LoRA implemented for the new [Candle](https://github.com/huggingface/candle) framework.
+  - LoRA implemented for the [Candle](https://github.com/huggingface/candle) machine learning framework.
 
 ### Machine Learning Applications
 - [PerceiverIO Classifier](https://github.com/EricLBuehler/PerceiverIO-Classifier)
