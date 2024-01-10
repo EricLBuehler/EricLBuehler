@@ -3,6 +3,8 @@
 ### Libraries
 - [Trc](https://github.com/EricLBuehler/trc)
   - A faster Arc: a Rust thread reference counted smart pointer.
+- [FlexRc](https://github.com/EricLBuehler/flexrc)
+  - Fast, flexible, and safe reference counted type.
   
 ### Programming Languages
 - [Kestrel](https://github.com/EricLBuehler/kestrel)
