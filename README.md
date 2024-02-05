@@ -19,6 +19,8 @@
   - Efficent platform for inference and serving local [Candle](https://github.com/huggingface/candle) LLMs including an OpenAI compatible API server.
 - [candle-lora](https://github.com/EricLBuehler/candle-lora)
   - LoRA implemented for the [Candle](https://github.com/huggingface/candle) machine learning framework.
+- [candle-sampling](https://github.com/EricLBuehler/candle-sampling)
+  - Sampling techniques for [Candle](https://github.com/huggingface/candle). 
 
 ### Machine Learning Applications
 - [PerceiverIO Classifier](https://github.com/EricLBuehler/PerceiverIO-Classifier)
