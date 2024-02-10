@@ -21,6 +21,8 @@
   - LoRA implemented for the [Candle](https://github.com/huggingface/candle) machine learning framework.
 - [candle-sampling](https://github.com/EricLBuehler/candle-sampling)
   - Sampling techniques for [Candle](https://github.com/huggingface/candle). 
+- [X-LoRA](https://github.com/EricLBuehler/xlora)
+  - X-LoRA: Mixture of LoRA Experts.
 
 ### Machine Learning Applications
 - [PerceiverIO Classifier](https://github.com/EricLBuehler/PerceiverIO-Classifier)
