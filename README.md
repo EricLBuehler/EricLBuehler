@@ -23,6 +23,8 @@
   - Sampling techniques for [Candle](https://github.com/huggingface/candle). 
 - [X-LoRA](https://github.com/EricLBuehler/xlora)
   - X-LoRA: Mixture of LoRA Experts.
+- [mistral.rs](https://github.com/EricLBuehler/mistral.rs)
+  - Blazingly fast LLM inference. 
 
 ### Machine Learning Applications
 - [PerceiverIO Classifier](https://github.com/EricLBuehler/PerceiverIO-Classifier)
