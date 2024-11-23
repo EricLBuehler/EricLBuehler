@@ -20,7 +20,9 @@
 - [candle-lora](https://github.com/EricLBuehler/candle-lora)
   - LoRA implemented for the [Candle](https://github.com/huggingface/candle) machine learning framework.
 - [candle-sampling](https://github.com/EricLBuehler/candle-sampling)
-  - Sampling techniques for [Candle](https://github.com/huggingface/candle). 
+  - Sampling techniques for [Candle](https://github.com/huggingface/candle).
+- [candle_graphs](https://github.com/EricLBuehler/candle_graphs)
+  - Easy-to-use CUDA graph API for [Candle](https://github.com/huggingface/candle). 
 - [X-LoRA](https://github.com/EricLBuehler/xlora)
   - X-LoRA: Mixture of LoRA Experts.
 - [mistral.rs](https://github.com/EricLBuehler/mistral.rs)
