@@ -1,5 +1,11 @@
 # Eric Buehler
 
+### mistral.rs
+- [mistral.rs](https://github.com/EricLBuehler/mistral.rs)
+  - Blazingly fast LLM inference. 
+- [UQFF maker](https://github.com/EricLBuehler/uqff_maker/)
+  - Automated generation of UQFF models with mistral.rs.
+
 ### Libraries
 - [Trc](https://github.com/EricLBuehler/trc)
   - A faster Arc: a Rust thread reference counted smart pointer.
@@ -25,8 +31,6 @@
   - Easy-to-use CUDA graph API for [Candle](https://github.com/huggingface/candle). 
 - [X-LoRA](https://github.com/EricLBuehler/xlora)
   - X-LoRA: Mixture of LoRA Experts.
-- [mistral.rs](https://github.com/EricLBuehler/mistral.rs)
-  - Blazingly fast LLM inference. 
 
 ### Machine Learning Applications
 - [PerceiverIO Classifier](https://github.com/EricLBuehler/PerceiverIO-Classifier)
