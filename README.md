@@ -31,6 +31,8 @@
   - Easy-to-use CUDA graph API for [Candle](https://github.com/huggingface/candle). 
 - [X-LoRA](https://github.com/EricLBuehler/xlora)
   - X-LoRA: Mixture of LoRA Experts.
+- [diffusion-rs](https://github.com/EricLBuehler/diffusion-rs)
+  - Blazingly fast inference of diffusion models.
 
 ### Machine Learning Applications
 - [PerceiverIO Classifier](https://github.com/EricLBuehler/PerceiverIO-Classifier)
